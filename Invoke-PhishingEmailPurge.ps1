@@ -4,7 +4,7 @@
 ## Date: 5.6.2019
 ## GitHub Profile: https://github.com/ctejeda
 
-Function Invoke-PhishingEmailPureg {
+Function Invoke-PhishingEmailPurge {
 
     	 param 
     (
